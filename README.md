@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Bio
+## Outshader 
+
 
 ### Links
-[![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=social&logo=discord)](https://discord.com/users/YOUR_USER_ID)
+[![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=social&logo=discord)](https://discord.com/users/648580800916357152)
