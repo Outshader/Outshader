@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 
 
 ### Links
-[![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=social&logo=discord)](https://discord.com/users/648580800916357152)
+<a href="https://discord.com/users/648580800916357152">
+  <img
+    src="https://img.shields.io/badge/Discord-000000?style=flat&logo=discord&logoColor=white"
+    alt="Discord"
+    style="border: 2px solid #5865F2; border-radius: 5px;"
+  />
+</a>
