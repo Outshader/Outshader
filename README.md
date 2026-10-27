@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Outshader/Outshader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Bio
+
+### Links
+[![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=social&logo=discord)](https://discord.com/users/YOUR_USER_ID)
